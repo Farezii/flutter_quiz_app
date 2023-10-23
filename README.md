@@ -1,16 +1,17 @@
 # adv_basics
 
-A new Flutter project.
+A new Flutter project about a quiz app.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a learning project created during the course "Flutter & Dart - The Complete Guide [2023 Edition]".
 
-A few resources to get you started if this is your first Flutter project:
+To run said project, please follow the instructions to install Flutter and all it's dependencies on your chosen OS:
+-  https://docs.flutter.dev/get-started/install
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Once installed, clone the repository, and run the following commands:\
+`flutter clean`
+`flutter pub get`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You are now setup, and can now run the main.dart file to start the app on your device of choice!
+`flutter run`
